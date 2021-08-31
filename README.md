@@ -1,4 +1,4 @@
-### Hi there 👋. I am Haoran. Nice to see you!
+### Hi there 👋. I am Haoran. Welcome to my GitHub
 - 🌱 I’m currently working on: 
 - 📌 Best traveller web app: http://bestravellers.com/
 - 📌 My weather app: https://zhang-haoran.github.io/myweather/
