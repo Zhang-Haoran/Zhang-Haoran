@@ -1,5 +1,6 @@
 ### Hi there 👋. I am Haoran. Welcome to my GitHub
-- 🌱 I’m currently working on: my-component-library 
+- 🌱 I’m currently working on: angular-official-start
+
 - 📌 Memory game: https://zhang-haoran.github.io/mason-team-s-code-test/
 - 📌 Best traveller web app: http://besttraveller.s3-website.us-east-2.amazonaws.com/
 - 📌 My weather app: https://zhang-haoran.github.io/myweather/
