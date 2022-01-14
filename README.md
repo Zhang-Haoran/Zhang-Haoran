@@ -1,5 +1,5 @@
 ### Hi there 👋. I am Haoran. Welcome to my GitHub
-- 🌱 I’m currently working as a software developer.
+- 🌱 I’m currently working as a software developer
 
 
 - 📌 Memory game: https://zhang-haoran.github.io/mason-team-s-code-test/
