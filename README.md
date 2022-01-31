@@ -1,5 +1,5 @@
 ### Hi there 👋. I am Haoran. Welcome to my GitHub
-- 🌱 I’m currently working as a software developer
+- 🌱 I’m currently working as a Software Developer
 
 - 📌 My personal website: www.haoran.gobest.site
 
